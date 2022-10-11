@@ -1,4 +1,4 @@
-# smymetric_matrix_filler
+# symmetric_matrix_filler
 
 **DISCLAIMER:** I take no credit for the **symetric_matrix_filler** program.
 
